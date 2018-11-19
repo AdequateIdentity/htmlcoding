@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-image: url("file:///C:/Users/adequ/Desktop/Organization/Pictures/4bb3da56aab1cbc7cb2c0b9c6d150b27.jpg");
+    background-color: black;
+}
+
+h1 {
+    font-family: arial;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: lightblue;
+    background-color: transparent;
+}
+
+table {
+    color: white;
+    border: 1px solid lightblue;
+    text-align: center;
+    padding: 15px;
+    width: 25%;
+    background-color: lightblue;
+}
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
+</style>
+</head>
+<body>
+
+<h1><strong>AISales Portfolio</strong></h1>
+<h2><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></h2>
+<a href="https://discord.gg/Az2GYp9" target="_blank"><p style="text-align:center"><strong>My Discord</strong></a>
+<h2><strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong></h2>
+<p>Hello, my name is AdequateIdentity. I am the Founder and CEO of AISales, a freelance company driven to help members meet their needs through many given services.</p>
+<table class="center" background="file:///C:/Users/adequ/Desktop/Organization/Pictures/4bb3da56aab1cbc7cb2c0b9c6d150b27.jpg">
+  <tr>
+    <th><strong>Service</strong></th>
+    <th><strong>Name</strong></th>
+    <th><strong>Price</strong></th>
+  </tr>
+  <tr>
+    <td>Discord Bot Coding</td>
+    <td>Jacob</td>
+    <td>$15</td>
+  </tr>
+  <tr>
+    <td>HTML Website Coding</td>
+    <td>Dustin</td>
+    <td>$25</td>
+  </tr>
+</table>
+
+</body>
+</html>
